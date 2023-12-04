@@ -1,3 +1,3 @@
 # data
-In these cells of python code i show my usage of python panda, matplotlib and heatmap.
-this code is not run in to an normal python ide put in python jupyter
+<p> In these cells of python code I show my usage of python panda, matplotlib and heatmap. </p>
+<p>This code is not run in to an normal python ide but in python jupyter.</p>
